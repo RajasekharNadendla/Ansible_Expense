@@ -3,7 +3,7 @@
   become: yes
   vars:
    login_host: db.rajasekhar.store
-   login_password: ExpenseApp@1
+   login_password: ExpenseApp1
 
   vars_prompt:
 
